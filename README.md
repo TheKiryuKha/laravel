@@ -10,8 +10,6 @@ An ultra-strict, type-safe Laravel skeleton engineered for developers who refuse
 * Automated Code Quality: Pre-configured tools ensure consistent, pristine code across your entire team
 * Just Better Laravel Defaults: Thanks to strict models, auto eager loading, immutable dates, and more...
 
-## Available commands
-
 ## Installation guide
 Just run the following command in your terminal:
 
